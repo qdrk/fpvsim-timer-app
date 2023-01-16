@@ -1,2 +1,3 @@
-# fpvsim-timer-app
-The app that pairs with fpvsim timer.
+# FPVSIM Timer - A modern lap timing system
+
+For more details, visit https://fpvsim.com/timer
