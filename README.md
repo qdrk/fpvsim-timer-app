@@ -1,4 +1,4 @@
-### FPVSIM Timer - An opensource free modern cross platform FPV lap timing and race coaching system. Compatible with both analog and HD FPV systems.
+### FPVSIM Timer - An opensource modern cross platform FPV lap timing and race coaching system. Compatible with both analog and HD FPV systems.
 
 #### 3.0 is out, please check it out on the [Releases page](https://github.com/qdrk/fpvsim-timer-app/releases).
 
